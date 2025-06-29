@@ -1,2 +1,1 @@
-🖐️Dashboard
-.(AdventureWorks.png)
+![🖐️Dashboard](AdventureWorks.png)
